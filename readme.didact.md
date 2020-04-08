@@ -259,7 +259,7 @@ You should see it reflected in the logs (which will be printed every minute by t
 kamel log cron-job-routing
 ```
 
-([^ execute](didact://?commandId=vscode.didact.sendNamedTerminalAString&text=camelTerm$$kamel%20log%20cron-job-routingg&completion=Watch%20integration%20logs. "Opens a new terminal and sends the command above"){.didact})
+([^ execute](didact://?commandId=vscode.didact.sendNamedTerminalAString&text=camelTerm$$kamel%20log%20cron-job-routing&completion=Watch%20integration%20logs. "Opens a new terminal and sends the command above"){.didact})
 
 
 [**Click here to exit the current command**](didact://?commandId=vscode.didact.sendNamedTerminalCtrlC&text=camelTerm&completion=Camel%20K%20basic%20integration%20interrupted. "Interrupt the current operation on the terminal"){.didact},
