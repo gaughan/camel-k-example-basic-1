@@ -64,9 +64,9 @@ Go to your working project, open a terminal tab and type the following command:
 
 
 ```
-oc project userX-lab-1
+oc project userX-lab-basic
 ```
-([^ execute](didact://?commandId=vscode.didact.sendNamedTerminalAString&text=camelTerm$$oc%20project%20userX-lab-1&completion=Use%20your%20namespace. "Opens a new terminal and sends the command above"){.didact})
+([^ execute](didact://?commandId=vscode.didact.sendNamedTerminalAString&text=camelTerm$$oc%20project%20userX-lab-basic&completion=Use%20your%20namespace. "Opens a new terminal and sends the command above"){.didact})
 
 
 Upon successful creation, you should ensure that the Camel K operator is installed. We'll use the `kamel` CLI to do it:
